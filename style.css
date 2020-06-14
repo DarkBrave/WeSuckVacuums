@@ -1,0 +1,59 @@
+html {
+    font-family: "Arial";
+    text-align: center;
+}
+
+.top {
+    padding: 100px;
+    padding-bottom: 25px;
+    color: deepskyblue;
+    font-size: 100px;
+}
+
+.head-desc {
+    color: black;
+    font-size: 50px;
+    padding: 0px;
+}
+
+#plans-h3 {
+    color: white;
+    font-size: 60px;
+    color: black;
+}
+
+.background-top {
+    background-image: url('../../assets/vacuum.jpg');
+}
+
+hr {
+    border: 5px solid lightblue;
+    padding: 0px;
+}
+
+.plans {
+    background-color: lightblue
+}
+
+.plan-1,
+.plan-2,
+.plan-3 {
+    list-style-type: none;
+    font-size: 35px;
+}
+
+.plan-1 {
+    float: left;
+}
+
+.plan-2 {
+    float: left;
+}
+
+.plan-1 {
+    float: right;
+}
+
+#copyright {
+    background-color: cornflowerblue
+}
