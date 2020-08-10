@@ -35,22 +35,22 @@ hr {
     background-color: lightblue
 }
 
-.plan-1,
-.plan-2,
-.plan-3 {
+.plan-premium,
+.plan-regular,
+.plan-budget {
     list-style-type: none;
     font-size: 35px;
 }
 
-.plan-1 {
+.plan-premium {
     float: left;
 }
 
-.plan-2 {
+.plan-regular {
     float: left;
 }
 
-.plan-1 {
+.plan-budget {
     float: right;
 }
 
